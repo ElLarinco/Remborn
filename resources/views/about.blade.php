@@ -17,20 +17,20 @@
 
         <div class="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
           <span class="w-20 border-t-2 border-solid border-red-200 inline-block mb-3"></span>
-          <h5 class="text-xl font-medium uppercase mb-4">Fresh Design</h5>
-          <p class="text-gray-800">FWR blocks bring in an air of fresh design with their creative layouts and blocks, which are easily customizable</p>
+          <h5 class="text-xl font-medium uppercase mb-4">Text</h5>
+          <p class="text-gray-800">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae, hic amet suscipit tenetur iste commodi repellendus neque ullam molestias voluptas fugit recusandae at. Quidem voluptatem eum mollitia dolorum magnam aut.</p>
         </div>
 
         <div class="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
           <span class="w-20 border-t-2 border-solid border-red-200 inline-block mb-3"></span>
-          <h5 class="text-xl font-medium uppercase mb-4">Clean Code</h5>
-          <p class="text-gray-800">FWR blocks are the cleanest pieces of HTML blocks, which are built with utmost care to quality and usability.</p>
+          <h5 class="text-xl font-medium uppercase mb-4">Text</h5>
+          <p class="text-gray-800">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae, hic amet suscipit tenetur iste commodi repellendus neque ullam molestias voluptas fugit recusandae at. Quidem voluptatem eum mollitia dolorum magnam aut.</p>
         </div>
 
         <div class="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
           <span class="w-20 border-t-2 border-solid border-red-200 inline-block mb-3"></span>
-          <h5 class="text-xl font-medium uppercase mb-4">Perfect Tool</h5>
-          <p class="text-gray-800">FWR blocks is a perfect tool for designers, developers and agencies looking to create stunning websites in no time.</p>
+          <h5 class="text-xl font-medium uppercase mb-4">Text</h5>
+          <p class="text-gray-800">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Beatae, hic amet suscipit tenetur iste commodi repellendus neque ullam molestias voluptas fugit recusandae at. Quidem voluptatem eum mollitia dolorum magnam aut.</p>
         </div>
 
       </div>
